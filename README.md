@@ -3,7 +3,7 @@ anime_sales
 
 Anime sales data parser. Supports only oricon-style lists at the moment.
 
-To get started, place your textfiles in `data/SOURCE_NAME/year-month-day.txt`
+To get started, place your textfiles in `data/SOURCE_NAME/year-startMonth-startDay-endMonth-endDay.txt`
 
 For example:
 
